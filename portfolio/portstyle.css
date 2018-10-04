@@ -1,0 +1,22 @@
+
+body {
+	padding: 1em;
+	/*background-image: url(background.png);*/
+	/*-webkit-transform: rotate(90deg); */
+	/*background-color: #293249;*/
+  /*background-image: linear-gradient(#293249,gray);*/
+	background-blend-mode: hard-light;
+	opacity: 1;
+	background-attachment: fixed;
+	background-size: cover;
+	background-repeat: no-repeat;
+  border-radius: 10px; 
+  margin-left: auto;
+  margin-right: auto;
+  color: #333333;
+  background-color: #FAFAFA;
+  }
+
+figure {
+	border-radius: 1em;
+}
